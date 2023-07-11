@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "datadaerahs",
+  "info": {
+    "singularName": "datadaerah",
+    "pluralName": "datadaerahs",
+    "displayName": "datadaerah"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "nama_kab_kota": {
+      "type": "string"
+    },
+    "deskripsi_daerah": {
+      "type": "text"
+    },
+    "lokasi": {
+      "type": "string"
+    },
+    "contact_person": {
+      "type": "string"
+    },
+    "email": {
+      "type": "string"
+    },
+    "no_telp": {
+      "type": "string"
+    },
+    "photo": {
+      "type": "string"
+    },
+    "keterangan": {
+      "type": "string"
+    }
+  }
+}
